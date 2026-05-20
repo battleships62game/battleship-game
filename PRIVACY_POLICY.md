@@ -13,6 +13,6 @@ No data is transmitted to external servers.
 This app does not use any third-party analytics, advertising, or tracking services.
 
 ## Contact
-If you have any questions, contact: your@email.com
+If you have any questions, contact: battleships62game@gmail.com
 
 *Last updated: May 2026*
